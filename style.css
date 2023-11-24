@@ -1,0 +1,58 @@
+table,th,td{
+    border:1px solid #ccc;
+    padding:10px;
+    text-align: center;
+    border-collapse: collapse;
+    
+
+}
+table{
+    width:60%;
+    margin:auto;
+}
+.row-head td{
+    padding:20px 0;
+    font-weight: 600;
+    
+}
+th{
+    color:#ccc;
+    font-weight: 500;
+}
+.left{
+    text-align: left;
+}
+.no{
+
+    border-top-color: white;
+    border-left-color:white;
+}
+.head1,.head2,.head3{
+    font-size: 25px;
+}
+.head1,.btn1{
+    background-color:rgb(0, 140, 255);
+    color:white;
+}
+.head2,.btn2{
+    background-color: blue;
+    color:white;
+}
+.head3,.btn3{
+    background-color: blueviolet;
+    color:white;
+}
+button{
+    padding:10px 15px;
+
+    border-radius:5px;
+}
+.btn1{
+    border-color:rgb(0, 140, 255);
+}
+.btn2{
+    border-color:blue;
+}
+.btn3{
+    border-color:blueviolet
+}
